@@ -8,9 +8,9 @@ This project is to create an intractive webpage to provide an analysis of UFO si
 ## Results:
 
 - The filters include dates , city, state, country and shape of the UFO object.  
-- There is a navigation bar called " UFO Sightings" to reset the filters back to their **[defaults](static/images/defaults.png)**.
+- There is a navigation bar called " UFO Sightings" to reset the filters back to their ![defaults](static/images/defaults.png)
 - A Table object has been used to display the rows and columns from our data file
-- The webpage will be updated with the search criteria after pressing Enter. **[click here](static/images/sample_output.png)** to see a sample search.
+- The webpage will be updated with the search criteria after pressing Enter. ![sample serach](static/images/sample_output.png) 
 
 
 ## Summary:
